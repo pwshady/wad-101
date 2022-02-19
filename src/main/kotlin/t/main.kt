@@ -2,5 +2,5 @@ package t
 
 fun main()
 {
-    println("hiicaaaaaaaaaaaaaaa")
+    println("hiicaaaaaaaaaaaaaaaa")
 }
