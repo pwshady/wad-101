@@ -2,5 +2,6 @@ package t
 
 fun main()
 {
-    println("1234")
+    println("123456")
+    println("123456")
 }
